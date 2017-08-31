@@ -1,6 +1,6 @@
 # Code samples for "Neural Networks and Deep Learning"
 
-This repository contains code samples for my book on ["Neural Networks
+This repository contains code samples for Michael Nielsen's book on ["Neural Networks
 and Deep Learning"](http://neuralnetworksanddeeplearning.com).
 
 The code is written for Python 2.6 or 2.7. Michal Daniel Dobrzanski
